@@ -1,0 +1,167 @@
+[
+    {
+        "name": "AMR 21",
+        "category": "Ground Effect",
+        "park": "Aston Martin F1 Team",
+        "state": "United Kingdom",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "Aston Martin's 2021 F1 Car, built with 1,500 Horsepower, going up to 12,500 RPM on full throttle, idling at 5,000 RPM as minimum value",
+        "imageName": "AMR21"
+    },
+    {
+        "name": "Civics Type R",
+        "category": "Turbo",
+        "park": "Honda",
+        "state": "Japan",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "The old and reliable Honda Civics Type R, built for both racing and street use. Uses a manual transmission with 6 gears reaching up to 300 KM per hour.",
+        "imageName": "Civics"
+    },
+    {
+        "name": "Supra MK5",
+        "category": "Turbo",
+        "park": "Toyota",
+        "state": "Alaska",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "description": "Supra",
+        "imageName": "supra"
+    },
+    {
+        "name": "Innova",
+        "category": "Hybrid",
+        "park": "Toyota",
+        "state": "Japan",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "description": "The real family car on indonesia, used by all Indonesians, has decent torque, is fuel-efficient, and is big enough to fit 8 people",
+        "imageName": "innova"
+    },
+    {
+        "name": "Ioniq 5",
+        "category": "Hybrid",
+        "park": "Hyundai",
+        "state": "South Korea",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "This car is almost full electric and runs almost 200 Miles on full tank.",
+        "imageName": "ioniq5"
+    },
+    {
+        "name": "Skyline GTR 35",
+        "category": "Turbo",
+        "park": "Nissan",
+        "state": "Japan",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "description": "Starred in the very famous Fast and Furious movies ridden by Paul Walker, also known as his personal favourite car.",
+        "imageName": "gtr35"
+    },
+    {
+        "name": "Shelby 500 GT",
+        "category": "Turbo",
+        "park": "Mustang",
+        "state": "America",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "description": "This Running horse is a ferrari wannabe, owners have no control over this car due to it's raw horse power",
+        "imageName": "shelby"
+    },
+    {
+        "name": "RB19",
+        "category": "Ground Effect",
+        "park": "Red Bull Racing F1 Team",
+        "state": "Alaska",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "description": "An F1 champion car in 2022. Max Verstappen won his first champhion with 325 Points, winning the last race of the final grand prix agains't Lewis Hamilton",
+        "imageName": "RB19"
+    },
+    {
+        "name": "SF-25",
+        "category": "Ground Effect",
+        "park": "Ferrari F1 Racing Team",
+        "state": "Washington",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -121.17799,
+            "latitude": 48.495442
+        },
+        "description": "Ferrari F1 car ridden by Charles Lecrec. it has a phenomenal car design that is very different compared to its competitors",
+        "imageName": "SF-25"
+    },
+    {
+        "name": "Fusion",
+        "category": "Hybrid",
+        "park": "Ford",
+        "state": "Virginia",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "description": "compact car",
+        "imageName": "fusion"
+    },
+    {
+        "name": "Optima",
+        "category": "Hybrid",
+        "park": "KIA",
+        "state": "South Korea",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Another compact car",
+        "imageName": "optima"
+    }
+]
